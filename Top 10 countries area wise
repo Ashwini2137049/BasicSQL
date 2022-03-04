@@ -1,0 +1,4 @@
+SELECT country_name, country_area
+FROM `bigquery-public-data.census_bureau_international.country_names_area` 
+ORDER BY country_area DESC 
+LIMIT 10
