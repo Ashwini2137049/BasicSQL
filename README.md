@@ -13,4 +13,6 @@ Analysed data of The Look E-Commerce Store
 ![image](https://user-images.githubusercontent.com/100945160/156816210-a2e41142-359e-4e0f-99e4-1b1d23dfc310.png)
 
 
-4.)
+4.)  No. Of Users in each City
+![image](https://user-images.githubusercontent.com/100945160/156819639-9c5581bb-5673-4cff-98eb-a74a9e584fa4.png)
+
