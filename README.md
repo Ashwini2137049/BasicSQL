@@ -10,7 +10,7 @@ Analysed data of The Look E-Commerce Store
 
 
 3.) No. of Products available in each product category
-![image](https://user-images.githubusercontent.com/100945160/156814682-7e28499d-fbcb-4232-9a15-cb5801379496.png)![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/100945160/156816210-a2e41142-359e-4e0f-99e4-1b1d23dfc310.png)
 
 
 4.)
