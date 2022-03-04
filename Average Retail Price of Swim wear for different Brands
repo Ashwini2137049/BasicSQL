@@ -1,0 +1,5 @@
+SELECT brand, avg(retail_price) as Average_Retail_Price 
+FROM `bigquery-public-data.thelook_ecommerce.products` 
+where lower(name) like "%swim%"
+GROUP BY brand 
+ORDER BY Average_Retail_Price desc 
