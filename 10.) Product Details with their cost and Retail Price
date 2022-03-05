@@ -1,0 +1,7 @@
+SELECT distinct(p.brand) as Brand, 
+ii.product_category,ii.product_name,
+p.cost,p.retail_price
+FROM `bigquery-public-data.thelook_ecommerce.inventory_items` ii
+inner join   
+`bigquery-public-data.thelook_ecommerce.products` p
+on ii.id=p.id
