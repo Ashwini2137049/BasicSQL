@@ -1,0 +1,6 @@
+SELECT distinct(city) as City, 
+max(browser) as Browser,
+max(traffic_source) as Traffic_Source
+FROM `bigquery-public-data.thelook_ecommerce.events` 
+group by city
+order by city 
