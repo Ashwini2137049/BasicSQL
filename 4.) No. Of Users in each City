@@ -1,3 +1,5 @@
-SELECT city, COUNT(DISTINCT (postal_code)) AS Number_of_Users
+SELECT city as City, 
+COUNT(DISTINCT (postal_code)) AS Number_of_Users
 FROM `bigquery-public-data.thelook_ecommerce.users`
 group by city
+order by Number_of_Users desc 
