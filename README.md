@@ -30,4 +30,9 @@ Analysed data of The Look E-Commerce Store
 ![image](https://user-images.githubusercontent.com/100945160/156887635-8996fd16-fa33-4f2a-9a1b-d058de478219.png)
 
 
-7.)
+7.) What is the most used browser and the source of browser(Traffic_source) used by the users with respect to each city?
+![image](https://user-images.githubusercontent.com/100945160/156891665-4fa84c0d-4bdb-4361-a4ca-b3471b319eeb.png)
+
+
+
+8.)
