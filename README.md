@@ -41,15 +41,22 @@ Analysed data of The Look E-Commerce Store
 
 
 
-8.) Sale Prices of the Commodities with Product Name
+8.) Sale Prices of the Commodities with Product Name (Using Join)
 
 ![image](https://user-images.githubusercontent.com/100945160/156893387-845b5480-3ba2-46bc-a982-e947e2150176.png)
 
 
-9.) Details of customers and their events who are above 70 years
+9.) Details of customers and their events who are above 70 years (Using Join)
 
 ![image](https://user-images.githubusercontent.com/100945160/156894583-abe89c3e-6c37-453a-b694-ae3403a4db1e.png)
 
 
 
-10.)
+10.) Product Details with their cost and Retail Price (Using Join)
+
+![image](https://user-images.githubusercontent.com/100945160/156895205-e1331d0c-2d54-4dbb-95e9-63aed7c81f94.png)
+
+
+
+
+
