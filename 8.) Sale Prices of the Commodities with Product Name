@@ -1,0 +1,10 @@
+SELECT DISTINCT ii.product_id as Product_id,
+ ii.product_category Product_Category,
+ii.product_name as Product_Name,
+max(oi.sale_price) as Sale_Price
+FROM `bigquery-public-data.thelook_ecommerce.inventory_items` ii
+full outer join 
+`bigquery-public-data.thelook_ecommerce.order_items` oi
+on ii.product_id=oi.product_id
+group by ii.product_id, ii.product_category, ii.product_name, oi.product_id
+ORDER BY  Sale_Price DESC 
