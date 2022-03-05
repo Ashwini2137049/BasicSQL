@@ -41,4 +41,9 @@ Analysed data of The Look E-Commerce Store
 
 
 
-8.)
+8.) Sale Prices of the Commodities with Product Name
+
+![image](https://user-images.githubusercontent.com/100945160/156893387-845b5480-3ba2-46bc-a982-e947e2150176.png)
+
+
+9.)
