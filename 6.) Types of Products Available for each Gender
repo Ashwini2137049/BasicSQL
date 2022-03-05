@@ -1,0 +1,4 @@
+SELECT DISTINCT (product_department) as Gender,
+COUNT(distinct (product_category)) as Types_of_Products_Available 
+FROM `bigquery-public-data.thelook_ecommerce.inventory_items` 
+group by product_department
