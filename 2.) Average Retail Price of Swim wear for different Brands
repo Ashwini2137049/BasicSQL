@@ -1,5 +1,6 @@
-SELECT brand, avg(retail_price) as Average_Retail_Price 
+SELECT distinct(brand) as Brand,
+MIN(cost) as Minimum_cost 
 FROM `bigquery-public-data.thelook_ecommerce.products` 
-where lower(name) like "%swim%"
-GROUP BY brand 
-ORDER BY Average_Retail_Price desc 
+where lower(name) like "%swim%" and brand is not null 
+GROUP BY Brand
+ORDER BY brand asc 
