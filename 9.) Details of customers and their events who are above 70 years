@@ -1,0 +1,9 @@
+SELECT distinct  e.id, u.first_name, u.last_name, 
+u.age, u.email, u.street_address, e.city,e.state, e.event_type 
+FROM `bigquery-public-data.thelook_ecommerce.events` e
+inner join   
+`bigquery-public-data.thelook_ecommerce.users` u
+on e.id=u.id
+where u.age>=70
+group by  e.id, u.first_name, u.last_name,  u.email, u.street_address, e.city,e.state, e.event_type, u.age
+order by u.age desc 
