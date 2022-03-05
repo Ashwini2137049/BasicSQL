@@ -18,4 +18,6 @@ Analysed data of The Look E-Commerce Store
 ![image](https://user-images.githubusercontent.com/100945160/156819723-3940056a-08cc-4edd-a043-b3f38f7ed1bb.png)
 
 
-5.)
+5.) Maximum Price charged by each Brand along with Product name
+![image](https://user-images.githubusercontent.com/100945160/156884541-daba47c3-a581-4e25-9e31-7cab68b31958.png)
+
