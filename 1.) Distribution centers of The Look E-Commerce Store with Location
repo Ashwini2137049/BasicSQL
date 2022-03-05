@@ -1,0 +1,5 @@
+SELECT name as Distribution_centers, 
+latitude as Latitude,
+longitude as Longitude 
+FROM `bigquery-public-data.thelook_ecommerce.distribution_centers` 
+order by Distribution_centers asc 
