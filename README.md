@@ -12,7 +12,8 @@ Analysed data of The Look E-Commerce Store
 
 
 3.) No. of Products available in each product category
-![image](https://user-images.githubusercontent.com/100945160/156816210-a2e41142-359e-4e0f-99e4-1b1d23dfc310.png)
+![image](https://user-images.githubusercontent.com/100945160/156886259-061611d1-827a-4ec6-b01e-5723401bd6d6.png)
+
 
 
 4.)  No. Of Users in each City
