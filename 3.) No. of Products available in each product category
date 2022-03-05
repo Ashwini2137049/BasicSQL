@@ -1,3 +1,4 @@
-SELECT  product_category, count(DISTINCT(product_name)) As Number_of_Products,
+SELECT  product_category as Product_Category, 
+count(DISTINCT(product_name)) As Number_of_Products,
 FROM `bigquery-public-data.thelook_ecommerce.inventory_items` 
 GROUP BY product_category
