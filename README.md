@@ -24,3 +24,4 @@ Analysed data of The Look E-Commerce Store
 ![image](https://user-images.githubusercontent.com/100945160/156884573-a10353b1-be08-4ac4-baeb-31161103bf35.png)
 
 
+6.) Types of Products Available for each Gender
