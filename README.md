@@ -1,8 +1,9 @@
 # BasicSQL
 Analysed data of The Look E-Commerce Store
 
-1.) Distribution centers of The Look E-Commerce Store
-![image](https://user-images.githubusercontent.com/100945160/156816039-10e5cc7f-ea89-42eb-b8cc-d40d823c648f.png)
+1.) Distribution centers of The Look E-Commerce Store with Location
+![image](https://user-images.githubusercontent.com/100945160/156884779-07343efd-800e-44a0-857a-40fa1682ca45.png)
+
 
 
 2.) Average Retail Price of Swim wear for different Brands 
