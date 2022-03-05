@@ -6,7 +6,7 @@ Analysed data of The Look E-Commerce Store
 
 
 
-2.) Minimum cost incurred by each brand for manufacturing Swim Suit
+2.) Minimum cost incurred by each brand for manufacturing Swim Wear
 ![image](https://user-images.githubusercontent.com/100945160/156886012-b4da7960-a515-43b9-b9dc-6447990c2c5f.png)
 
 
