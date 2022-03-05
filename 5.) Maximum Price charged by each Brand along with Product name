@@ -1,0 +1,7 @@
+SELECT id as Product_id,
+ brand as Brand,
+  name as Product_name,
+   MAX(DISTINCT (retail_price)) AS Maximum_Price
+FROM `bigquery-public-data.thelook_ecommerce.products` 
+GROUP BY Brand, Product_id, Product_name
+order by Maximum_Price desc 
